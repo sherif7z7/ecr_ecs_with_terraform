@@ -1,0 +1,14 @@
+{
+    "name": "docker_node_js_web_app",
+        "version": "1.0.0",
+        "description": "Node.js on Docker manged by Terrafrom",
+        "author": "Rahul Wagh <rahul.wagh@jhooq.com>",
+        "main": "server.js",
+        "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+   }
+   
